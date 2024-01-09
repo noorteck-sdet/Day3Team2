@@ -17,5 +17,11 @@ public static void main(String[] args) {
 		System.out.println("Hello from the other side"); //simaaa
 		
 	}
+
+
+	//Sprint 2 automation
+	public static void add(int a, int b) {
+		System.out.println(a + b);
+	}
 	
 }
