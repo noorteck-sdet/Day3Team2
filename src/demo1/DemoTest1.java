@@ -13,7 +13,10 @@ public static void main(String[] args) {
 		
 	
 		System.out.println("Java is Fun");    // Hadeel
+		System.out.println("Haithem"); // Haithem 
+		System.out.println("Pushing new code");// Haithem
 		System.out.println("Haithem"); // haithem 
+		System.out.println("-----------------------------");
 		
 	}
 	
