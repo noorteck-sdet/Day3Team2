@@ -13,31 +13,11 @@ public static void main(String[] args) {
 		
 	
 		System.out.println("Java is Fun");    // Hadeel
-		//hello
-		System.out.println("Hello from the other side"); //simaaa
+		System.out.println("Haithem"); // Haithem 
+		System.out.println("Pushing new code");// Haithem
+		System.out.println("Haithem"); // haithem 
+		System.out.println("-----------------------------");
 		
-		System.out.println("Java is Fun");    //               ------------------Kazim... New 
-
-	}
-
-
-	//Sprint 2 automation
-	public static void add(int a, int b) {
-		System.out.println(a + b);
-	}
-	
-	
-
-	//Sprint 3 automation
-	public static void subtract(int a, int b) {
-		System.out.println(a - b);
-	}
-	
-	
-
-	//Sprint 3 automation
-	public static void divide(int a, int b) {
-		System.out.println(a / b);
 	}
 	
 }
